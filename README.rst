@@ -1,5 +1,6 @@
-[![Build Status](https://travis-ci.com/tugcanolgun/django-lazysignup.svg?branch=master)](https://travis-ci.com/tugcanolgun/django-lazysignup)
-
+.. image:: https://travis-ci.com/tugcanolgun/django-lazysignup.svg?branch=master
+    :target: https://travis-ci.com/tugcanolgun/django-lazysignup
+    
 Introduction
 ============
 
@@ -12,9 +13,9 @@ they can convert their temporary user account to a real user account.
 .. _Read the full documentation: http://django-lazysignup.readthedocs.org/
 
 Updates
--------
+=======
 
-This is a fork from [danfairs/django-lazysignup](https://github.com/danfairs/django-lazysignup).
+This is a fork from `danfairsdjango-lazysignup <https://github.com/danfairs/django-lazysignup>`_.
 
 * Replace static image at the beginning of the README with an actual current status badge.
 * Update it to be compatible with django 3.1.5. 
